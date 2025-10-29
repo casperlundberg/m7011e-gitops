@@ -14,7 +14,7 @@ email: casper.lundberg@ltu.se
 environment: Development
 
 # Custom message for this environment
-message: "Hello from Development Environment!"
+message: "Hello from GitOps - Updated via Git!"
 
 # Container image
 image:
